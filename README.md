@@ -1,1 +1,0 @@
-# django2.2-guide

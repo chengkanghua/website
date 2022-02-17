@@ -1,0 +1,17 @@
+site_name: My Docs
+site_description: (站点注释)
+site_author: (站点作者名称)
+#site_url: (站点地址)
+ 
+copyright: (版权声明相关文本)
+ 
+# nav 区域指定站点上能看到的页面。
+# 下面的配置代码仅作示范。注意配置的页面对应的 MarkDown 源码文件必须存在。
+nav:
+  - Index: index.md
+#  - Page 1: page1.md
+  # 下面代表的是一组页面
+#  - Page Group:
+#    - Sub Page 1: subpage/page1.md
+#    - Sub Page 2: subpage/page2.md
+#  - About: about.md
